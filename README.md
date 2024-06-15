@@ -1,7 +1,11 @@
 FUNCTIONS AND  SWITCH
+
 SUBJECT: Programming I
+
 MEMBERS: Dayana Lema and Daniela Yumbo
+
  REPOSITORY DESCRIPTION:
+ 
  Java JDK 11 _ Used language and libraries/packages: java
  
  This project is an interactive Java program that allows the user to choose between three different options: When the option is (A) add two numbers, when the option is (B) print a text string and when the option is (C) calculate the cosine of a number.
